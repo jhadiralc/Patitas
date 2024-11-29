@@ -3,6 +3,9 @@
 ## 📝 Descripción
 PATITAS es una plataforma en línea diseñada para conectar a los dueños de mascotas con cuidadores expertos y de confianza. Ofrecemos una variedad de opciones de cuidado de mascotas, adaptadas a diferentes presupuestos y necesidades. Los usuarios pueden encontrar cuidadores cercanos, con calificaciones y precios flexibles, que pueden acoger y cuidar a sus mascotas con amor y profesionalismo.
 
+para ver la carpeta, abrir aquí 👇:
+https://drive.google.com/drive/folders/1hUrlSGEAgFEkmLA_uRI7ZzidbZrgfbJl?usp=drive_link
+
 ---
 
 ## 🚧 La Problemática
